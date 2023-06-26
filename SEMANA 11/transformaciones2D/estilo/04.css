@@ -1,0 +1,25 @@
+#recuadro1{
+    transform:  skew(15deg,0deg);
+    border-radius: 20px;
+    background-color: cornflowerblue;
+    width: 200px;
+    padding: 10px;
+}
+#recuadro2{
+    transform:  skew(0deg,15deg);
+    border-radius: 20px;
+    background-color: rgb(101, 91, 234);
+    width: 200px;
+    padding: 10px;
+}
+#recuadro3{
+    transform:  skew(15deg,15deg);
+    border-radius: 20px;
+    background-color: rgb(152, 184, 243);
+    width: 200px;
+    padding: 10px;
+}
+body{
+    background: white;
+    margin: 50px;
+}

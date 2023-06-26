@@ -1,0 +1,27 @@
+#recuadro1{
+    background-color: black;
+    color: skyblue;
+    width: 700px;
+    height: 450px;
+    border-radius: 15px;
+    font-size: 45px;
+}
+#recuadro2{
+    background-color: black;
+    color: rgb(50, 181, 233);
+    width: 700px;
+    height: 450px;
+    border-radius: 15px;
+    font-size: 45px;
+    margin-top: 10px;
+}
+.texto1{
+    color: rgb(130, 225, 80);
+}
+.texto2{
+    color: rgb(36, 167, 119);
+}
+body{
+    background-color: white;
+    margin: 50px;
+}

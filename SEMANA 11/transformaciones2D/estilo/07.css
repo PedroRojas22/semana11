@@ -1,0 +1,54 @@
+#recuadro1{
+    background-color: black;
+    opacity: 0.3;
+    color: snow;
+    width: 700px;
+    height: 450px;
+    border-radius: 15px;
+    font-size: 30px;
+}
+#recuadro2{
+    background-color: black;
+    opacity: 0.6;
+    color: rgb(211, 149, 245);
+    width: 700px;
+    height: 450px;
+    border-radius: 15px;
+    font-size: 30px;
+}
+#recuadro3{
+    background-color: black;
+    opacity: 0.9;
+    color: rgb(82, 24, 113);
+    width: 700px;
+    height: 450px;
+    border-radius: 15px;
+    font-size: 30px;
+}
+#recuadro4{
+    background-color: black;
+    color: rgb(83, 7, 124);
+    width: 700px;
+    height: 450px;
+    border-radius: 15px;
+    font-size: 30px;
+}
+#recuadro5{
+    background-color: black;
+    color: rgb(235, 215, 246);
+    width: 700px;
+    height: 450px;
+    border-radius: 15px;
+    font-size: 30px;
+}
+.texto4{
+    background-color: rgb(171, 230, 43);
+}
+.texto4{
+    background-color: rgb(227, 242, 198);
+    opacity: 0.2;
+}
+body{
+    background: white;
+    margin: 50px;
+}

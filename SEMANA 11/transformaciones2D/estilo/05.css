@@ -1,0 +1,30 @@
+#recuadro1{
+    transform: rotate(10deg);
+    transform-origin: left top;
+    border-radius: 20px;
+    background-color: thistle;
+    width: 200px;
+    padding: 10px;
+}
+#recuadro2{
+    transform: rotate(10deg);
+    transform-origin: 0% 50%;
+    border-radius: 20px;
+    background-color: rgb(245, 71, 245);
+    width: 200px;
+    padding: 10px;
+    margin-top: 50px;
+}
+#recuadro3{
+    transform: rotate(10deg);
+    transform-origin: 20px 40px;
+    border-radius: 20px;
+    background-color: rgb(136, 52, 136);
+    width: 200px;
+    padding: 10px;
+    margin-top: 50px;
+}
+body{
+    background: white;
+    margin: 50px;
+}

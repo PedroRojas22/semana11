@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    text-align: center; /* se centraron los botones  del proyecto opcionales*/
+}
+.page{
+    border:1px solid green;
+    border-radius: 10px; 
+    width: 50%;
+    margin: 20px auto;
+    padding: 10px;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
+.boton{
+    
+    display: inline-block;
+    margin: 15px 10px;
+    padding: 8px;
+    border-radius: 15px;
+    text-decoration: none; /*quitamos la linea del texto*/
+    text-transform: uppercase; /*cambia el texto a mayuscula*/
+    background-color: rgb(26, 173, 26);
+    color: #fff;
+    /*transition-duration: 3000ms;*/
+    
+}
+.boton:hover{
+    opacity: 0.8;
+    color:black;
+    background-color: orange;
+
+}
+.boton:active{
+    transform: scale(.90);
+}
