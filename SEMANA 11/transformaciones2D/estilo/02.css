@@ -1,0 +1,18 @@
+#recuadro1{
+    transform: rotate(45deg);
+    border-radius: 20px;
+    background-color: rgb(240, 207, 76);
+    width: 200px;
+    padding: 10px;
+}
+#recuadro2{
+    transform: rotate(-45deg);
+    border-radius: 20px;
+    background-color: rgb(244, 168, 75);
+    width: 200px;
+    padding: 10px;
+}
+body{
+    background: white;
+    margin: 50px;
+}
